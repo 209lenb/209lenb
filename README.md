@@ -7,26 +7,6 @@
   </body>
 </html>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - 👋 Hi, I’m @209lenb
 - 👀 I’m interested in web/app development and automation
 - 🌱 I’m currently learning html and css
